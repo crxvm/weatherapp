@@ -6,7 +6,7 @@
 
 1.```api/weather/get/{city}```,  где ```{city}``` - город, например Moscow
 
-2.```api/weather/get?lat={lat}.75в22200&lon={lon}```
+2.```api/weather/get?lat={lat}&lon={lon}```
 
 ,где ```{lat} ``` и ```{lon}``` - географические координаты
 
